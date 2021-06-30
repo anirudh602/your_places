@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER" : "anirudh",
+        "DB_PASSWORD" : "sample_password",
+        "DB_NAME" : "mern-prod",
+        "DB_KEY" : "very_secret_key"
+    }
+}
